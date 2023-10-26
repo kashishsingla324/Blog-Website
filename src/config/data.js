@@ -24,7 +24,7 @@ export const blogList = [
       authorName: 'Avneet Kaur',
       authorAvatar: '/assets/images/author1.jpg',
       createdAt: 'June 03, 2021',
-      cover: '/assets/images/yoga.jpg',
+      cover: 'public/assets/images/yoga.jpg',
     }
     ,
     {
